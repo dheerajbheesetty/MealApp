@@ -1,0 +1,1 @@
+**IN this project I have created Meal App where user can list of meals and search for meals and see the recipe and watch the video as well. It also a functionality to add a meal to favoriates and can access it easily.**
